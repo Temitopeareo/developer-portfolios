@@ -42,6 +42,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhishek Bhardwaj](https://www.imabhishek.online)
 - [Abhishek Kandel](https://abhishekkandel.com.np)
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
+- [Abraham Temitope](https://abrahamtemitope.zone.id) [FullStack JS Dev]
 - [Abu Said](https://www.abusaid.me)
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Adam Alston](https://www.adamalston.com)
